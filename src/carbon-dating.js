@@ -15,6 +15,7 @@ const HALF_LIFE_PERIOD = 5730;
  * 
  * dateSample('1') => 22387
  * dateSample('WOOT!') => false
+ * 
  */
 
 function dateSample(sampleActivity) {
